@@ -1,2 +1,0 @@
-# flask
-For CI/CD
